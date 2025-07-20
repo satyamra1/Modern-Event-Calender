@@ -1,7 +1,7 @@
 ---
 ## 📽️ Demo
 
-![Calendar Demo](./frontend/src/assets/react.svg)
+![Calendar Demo](./frontend/src/assets/2025-07-20 22-44-27.gif)
 
 
 ````markdown
