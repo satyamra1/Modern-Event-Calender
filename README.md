@@ -1,7 +1,7 @@
 ---
 ## 📽️ Demo
 
-![Calendar Demo](./frontend/public/Demo_calender.gif)
+![Calendar Demo](./frontend/public/calender.mp4.gif)
 
 
 ````markdown
